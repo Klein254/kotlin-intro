@@ -2,7 +2,7 @@ fun main(args: Array<String>) {
 
     //Integer or Int
     var age:Int = 20
-    var age= 30
+    var age1= 30
 
     //Strings
     var name = "Hans"
