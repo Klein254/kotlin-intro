@@ -1,6 +1,8 @@
 fun main(args: Array<String>) {
-    var weight = 68
-    var height = 1.7
+    println("Enter Your Weight")
+    var weight: Int  = readLine()!!.toInt()
+    println("Enter your height")
+    var height: Double  = readLine()!!.toDouble()
 
     var bmi = weight / (height*height)
 

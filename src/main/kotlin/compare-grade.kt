@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
     print("Enter Your Marks")
 
-    var marks:Int = readLine()!!.toInt()
+    var marks: Int = readLine()!!.toInt()
 
     if (marks > 79 && marks <= 100){
         print("Your grade is A")
