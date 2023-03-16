@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     }
     else if (bmi <= 29){
         println("Normal Weight")
-    }l
+    }
     else if (bmi <= 34){
         println("Overweight")
     }
